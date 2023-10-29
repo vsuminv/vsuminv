@@ -13,7 +13,7 @@
 </div>
 <div><h1>📚 STACKS</h1></div>
 
-### Platforms & Languages
+### Platforms & Study Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -32,7 +32,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![ITELLIJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin&show_icons=true&theme=swift)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnals9957)](https://solved.ac/tnals9957/)
 
 
