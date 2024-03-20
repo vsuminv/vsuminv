@@ -10,12 +10,13 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tnals1831@naver.com)](mailto:tnals1831@naver.com)
 
 
+<div align="left">
 # 주요 프로젝트
-## - 재방문율을 이용한 맛집 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Re-staurant)
-## - 중/고등학생 입시 멘토링 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Catch)
-## - 숙박 및 농업체험 프로그램 예약 사이트 : [깃허브 바로가기](https://github.com/vsuminv/MiddleProject)
-## - 구직자들을 위한 데이터 시각화 : [깃허브 바로가기](https://github.com/vsuminv/dacon-O2LY-R)
-
+## 재방문율을 이용한 맛집 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Re-staurant)
+## 중/고등학생 입시 멘토링 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Catch)
+## 숙박 및 농업체험 프로그램 예약 사이트 : [깃허브 바로가기](https://github.com/vsuminv/MiddleProject)
+## 구직자들을 위한 데이터 시각화 : [깃허브 바로가기](https://github.com/vsuminv/dacon-O2LY-R)
+</div>
 <div><h1>📚 STACKS</h1></div>
 
 ### Platforms & Study Languages
