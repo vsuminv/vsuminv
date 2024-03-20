@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF4,100:5CD1E5&height=250&section=header&text=Welcome%20to%20Sumin's%20Github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=2)
 
 <div align="center">안녕하세요( •̀ ω •́ )✧<br>
-백엔드 개발자가 되기 위해 공부하고 있습니다!<br>
+백엔드 개발자가 되기 위해 공부하고 있습니다!<br></div>
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zsuminz.tistory.com/)](https://zsuminz.tistory.com/)
