@@ -12,6 +12,7 @@
 
 
 # 주요 프로젝트
+### 호텔 예약/ 관리 사이트 : [깃허브 바로기기](https://github.com/Hotel-FinalProject/HotelJAVA)
 ### 재방문율을 이용한 맛집 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Re-staurant)
 ### 중/고등학생 입시 멘토링 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Catch)
 ### 숙박 및 농업체험 프로그램 예약 사이트 : [깃허브 바로가기](https://github.com/vsuminv/MiddleProject)
