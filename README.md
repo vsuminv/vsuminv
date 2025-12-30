@@ -2,23 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF4,100:5CD1E5&height=250&section=header&text=Welcome%20to%20Sumin's%20Github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=2)
 
 <div align="center">안녕하세요( •̀ ω •́ )✧<br>
-백엔드 개발자가 되기 위해 공부하고 있습니다!<br></div>
+개발자가 되기 위해 공부하고 있습니다!<br></div>
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zsuminz.tistory.com/)](https://zsuminz.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltnals9957@gmail.com)](mailto:dltnals9957@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tnals1831@naver.com)](mailto:tnals1831@naver.com)
-
-
-
-# 주요 프로젝트
-### 호텔 예약/ 관리 사이트 : [깃허브 바로기기](https://github.com/Hotel-FinalProject/HotelJAVA)
-### 재방문율을 이용한 맛집 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Re-staurant)
-### 중/고등학생 입시 멘토링 사이트 : [깃허브 바로가기](https://github.com/vsuminv/Catch)
-### 숙박 및 농업체험 프로그램 예약 사이트 : [깃허브 바로가기](https://github.com/vsuminv/MiddleProject)
-### 구직자들을 위한 데이터 시각화 : [깃허브 바로가기](https://github.com/vsuminv/dacon-O2LY-R)
-
-#
 
 
 <div><h1>📚 STACKS</h1></div>
